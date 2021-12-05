@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "688194557843",
+    "project_id": "loca-social",
+    "storage_bucket": "loca-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688194557843:android:7d2271887ad8c514d53a66",
+        "android_client_info": {
+          "package_name": "com.example.loca_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688194557843-fma9tjv6mhp3cr4u52vd4ktpharhbiql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loca_social",
+            "certificate_hash": "ab8445e63d6d38136a12529850672e67a6bbaefe"
+          }
+        },
+        {
+          "client_id": "688194557843-87k9lnb6g7usb4a294ffhbpg820qo3tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6oG3GG8O43cZpj8E14w-r08EVwtctVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688194557843-87k9lnb6g7usb4a294ffhbpg820qo3tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
