@@ -1,6 +1,13 @@
 # Mage
 Mage cross-platform mobile application built using Flutter, a mobile development framework that uses the Dart programming language.
 This a social media app for shareing postes and chat with your friends 
+# Feature
+- Add posts
+- chat
+- send an image
+- send a viedo
+- send a audio
+- send text
 ## Getting Started
 
 This project is a starting point for a Flutter application.
