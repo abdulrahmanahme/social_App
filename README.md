@@ -1,4 +1,4 @@
-# loca_social
+# Mage
 
 A new Flutter application.
 
