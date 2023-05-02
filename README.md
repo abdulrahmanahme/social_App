@@ -8,6 +8,21 @@ This a social media app for shareing postes and chat with your friends
 - send a viedo
 - send a audio
 - send text
+# Packages
+ - Bloc
+ - Flutter_bloc
+ - Firebase Core
+ - Firebase Auth
+ - Firebase Database
+ - FlutterToast
+ - Cloud Firestore
+ - Iimage Picker
+ - Firebase Storage
+ - Shared Preferences
+ - Firebase Messaging
+ - Pin Code_fields
+ - Curved Navigation_bar
+  - Bottom Sheet
 ## Getting Started
 
 This project is a starting point for a Flutter application.
